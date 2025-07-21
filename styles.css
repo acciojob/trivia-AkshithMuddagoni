@@ -1,9 +1,17 @@
 
 /* Your CSS Code here. */
-#eg1{
+/*#eg1{
 	width: 7px;
 	height: 40px;
 	left: 0px;
 	top: 0px;
 	background-color:green;
+}*/
+#eg3{
+	 Max-width: 600px;
+		 Margin: 10px;
+       padding: 15px;
+   border-left: 8px solid green;
+   Background-color:#f8fffe;
+     Font-weight: bold;
 }
