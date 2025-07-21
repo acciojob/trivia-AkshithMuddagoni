@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+#eg1{
+	width: 7px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	background-color:green;
+}
